@@ -1,3 +1,4 @@
+Vulcan theme edit
 {
 "name": "Blurple",
 "description": "Warning: swag!",
@@ -18,10 +19,10 @@
 "#ffffff"
 ],
 "TEXT_MUTED": [
-"#5865F2"
+"#454A54"
 ],
 "TEXT_LINK": [
-"#5865F2"
+"#00A8FC"
 ],
 "TEXT_DANGER": [
 "#5865F2"
@@ -90,7 +91,7 @@
 "#cfcfcf"
 ],
 "TEXT_LINK": [
-"#5865F2"
+"#00A8FC"
 ],
 "CHANNEL_ICON": [
 "#ffffff"

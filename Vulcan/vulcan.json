@@ -69,7 +69,7 @@
 "#1f1f1f"
 ],
 "BACKGROUND_MODIFIER_SELECTED": [
-"#FF0000"
+"#4782cf"
 ],
 "BACKGROUND_MODIFIER_ACCENT": [
 "#1f1f1f"
@@ -104,7 +104,7 @@
 "PRIMARY_200": "#ffffff",
 "PRIMARY_300": "#ffffff",
 "PRIMARY_360": "#FF38F4",
-"PRIMARY_500": "#FFFD40",
+"PRIMARY_500": "#4782cf",
 "PRIMARY_600": "#1f1f1f",
 "PRIMARY_630": "#1f1f1f",
 "PRIMARY_660": "#1f1f1f",

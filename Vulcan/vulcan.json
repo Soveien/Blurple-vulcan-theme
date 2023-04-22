@@ -48,7 +48,7 @@
 "#1f1f1f"
 ],
 "BACKGROUND_ACCENT": [
-"#FF0000"
+"#B19FF9"
 ],
 "BACKGROUND_FLOATING": [
 "#1f1f1f"
@@ -104,7 +104,7 @@
 "PRIMARY_200": "#ffffff",
 "PRIMARY_300": "#ffffff",
 "PRIMARY_360": "#FF38F4",
-"PRIMARY_500": "#4782cf",
+"PRIMARY_500": "#B19FF9",
 "PRIMARY_600": "#1f1f1f",
 "PRIMARY_630": "#1f1f1f",
 "PRIMARY_660": "#1f1f1f",

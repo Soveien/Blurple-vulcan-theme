@@ -12,7 +12,7 @@
 "#ffffff"
 ],
 "HEADER_SECONDARY": [
-"#FF0000"
+"#17FF00"
 ],
 "TEXT_NORMAL": [
 "#ffffff"
@@ -75,7 +75,7 @@
 "#1f1f1f"
 ],
 "SPOILER_HIDDEN_BACKGROUND": [
-"#1f1f1f"
+"#2f2f2f"
 ],
 "SPOILER_REVEALED_BACKGROUND": [
 "transparent"
